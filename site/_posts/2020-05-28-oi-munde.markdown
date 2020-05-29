@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Oi Munde"
+date:   2020-05-28 19:11:44 -0400
+categories: update
+---
+Created this site to store notes about language, programming etc. that I don't want to forget, and might be useful or interesting to others.
