@@ -32,7 +32,7 @@ N tita skrevê li nhas entender (y konfuson) de manê sertes palavra é skrite n
 
 | ALUPEC | pronúnsia | notas                      | 
 | ------ | --------- | -------------------------- |
-| y | i | *e*
+| y, ô | i, ô | *e, ou*
 | N | m | a sere! regra de ALUPEC, é nê "M" nê "me"
 | -me | -m
 | -be | -b
@@ -42,19 +42,23 @@ N tita skrevê li nhas entender (y konfuson) de manê sertes palavra é skrite n
 | ke N | k'm | ô "ke-me"?
 | un | ũ
 | asin | assĩ
- besote | bzôt | pa mi, "bz" pudia ser enkontre, ma pa ALUPEC kwaz nãu (e mude etemolójeke)
+| besote | bzôt | pa mi, "bz" pudia ser enkontre, ma pa ALUPEC kwaz nãu (e mude etemolójeke)
+| ma | mâ | "mi ma bo"
+| má, más | má, máx | "má bon ke kel ote"
 | debóxe | d'bóx
 | de sima | d'sima
-| txegá | tx'gá
 | kre | krê | Sen acénte móde el ten un sílaba sô? Ma kes ezemples ke a-me enkontrá é só ke acénte.
 | barulhe | barúlh' | paresê-me ke ten son de /ulh'/, nãu /ul/
 | juélhe | jwélh'
 | dezê | dzê | pa mi, "dz" pudia ser enkontre, ma pa ALUPEC kwaz nãu (e mude etemolójeke)
 | dezide | dzit
 | falóde | falót
+| txegá | tx'gá
 | feká | f'ká
+| sebí | z'bí, zbí, s'bí? | ô zebí?
 | arve | arv | paresê-me ka ten son de \*"arvere"
 | kuatre | kwat'r'
+| ote | ôt | paresê-me ka ten son de \*"otere"
 | paresê-me | parsêm
 | kóre | | caro
 | kórre | | carro
@@ -74,7 +78,7 @@ N tita skrevê li nhas entender (y konfuson) de manê sertes palavra é skrite n
 | nê | nê | *não*, *nem*
 | nãu | nãu | *não*
 | ezistí | 'zistí | ô é izistí?
-| a | á | Na frase portuguesóde. Pa nha entender, ta dependê se ta ezistí palavra ke son "â". Se ka ta ezistí, ese palavra ta podê feká sem asénte. Se ta ezistí, ese palavra ta ten ke ten asénte móde es dos ta fazê un par mineme.
+| a | á | Na frase portugesóde. Pa nha entender, ta dependê se ta ezistí palavra ke son "â". Se ka ta ezistí, ese palavra ta podê feká sem asénte. Se ta ezistí, ese palavra ta ten ke ten asénte móde es dos ta fazê un par mineme.
 | la | lá
 | bonzine | bõzin
 | nine | nin
@@ -87,5 +91,5 @@ N tita skrevê li nhas entender (y konfuson) de manê sertes palavra é skrite n
 | Oi! | ôi
 | oi? oie? | ôi | *olho*
 | ói? óie? | ói | *alho*
-| olhe, molhe | olh', molh'
+| olhe, molhe | olh', molh' | óleo, molho
 | ijedá | ijdá
