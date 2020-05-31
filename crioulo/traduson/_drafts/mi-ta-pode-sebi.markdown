@@ -4,11 +4,11 @@ title:  "Mi ta Podê Sebí!"
 categories: traduson
 ---
 
-Traduzide pa Daniel Getz
-
 Stória original ["I Can Climb!"](https://storyweaver.org.in/stories/822-i-can-climb)
 ([pt](https://storyweaver.org.in/stories/20394-eu-consigo-subir))
 skrite pa Mini Shrinivasan y desenhóde pa Deval Maniar, y puste na saite [StoryWeaver.org.in](https://storyweaver.org.in/).
+
+Traduzide pa Daniel Getz
 
 <style>
   .pagesep {
@@ -32,7 +32,7 @@ Ma N ka ta podê txi de la.
 
 <div class="pagesep">~</div>
 
-N ta podê sebí na kadera.
+N ta podê sebí na kadéra.
 
 <div class="pagesep">~</div>
 
@@ -40,7 +40,7 @@ Ma N ka ta podê txi de la.
 
 <div class="pagesep">~</div>
 
-N ta sebí na kadera, y despôs na mésa!
+N ta sebí na kadéra, y despôs na mésa!
 
 <div class="pagesep">~</div>
 
@@ -54,15 +54,15 @@ Papá ta arí. El ta dezê-me, "Sonu, bo ten ke prendê txi!"
 
 <div class="pagesep">~</div>
 
-Mi ta ke mede. Ma N ka ta txorá.
+N ta ke mede. Ma N ka ta txorá.
 
 <div class="pagesep">~</div>
 
-Devargar, N ta txi de mésa, y N ta txi de kadera.
+Lente, lente, N ta txi de mésa, y N ta txi de kadera.
 
 <div class="pagesep">~</div>
 
-Afinal, a-me prendê txi tambén!
+Afinal, a-me prendê txi tamben!
 
 ---
 
