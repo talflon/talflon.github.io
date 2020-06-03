@@ -36,7 +36,7 @@ Pa kenhé ke N ta podê alê?
 
 <div class="pagesep">~</div>
 
-Nha mãi ma nha avô ta ocupóde.
+Nha mãi ma nha avô ta okupóde.
 
 <div class="pagesep">~</div>
 
@@ -44,7 +44,7 @@ Pa kenhé ke N ta podê alê?
 
 <div class="pagesep">~</div>
 
-Nha pai ma nha avô ta ocupóde.
+Nha pai ma nha avô ta okupóde.
 
 <div class="pagesep">~</div>
 

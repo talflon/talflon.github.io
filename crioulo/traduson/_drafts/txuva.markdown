@@ -28,11 +28,11 @@ N ta gostá de brinká ke aga.
 
 <div class="pagesep">~</div>
 
-Tita da txuva.
+Tita dá txuva.
 
 <div class="pagesep">~</div>
 
-Txuva ta da nos aga.
+Txuva ta dá nos aga.
 
 <div class="pagesep">~</div>
 
@@ -40,7 +40,7 @@ N ta gostá de brinká na rua.
 
 <div class="pagesep">~</div>
 
-So ke tita da txuva.
+So ke tita dá txuva.
 
 <div class="pagesep">~</div>
 

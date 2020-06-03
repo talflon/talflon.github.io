@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Desará, Desarénte
+title: Dezará, Dezarénte
 ---
 
-Kónde un pesoa ta *desará* (d+zará), el ta xatiá txeu, verá xatióde.
+Kónde un pesoa ta *dezará* (d+zará), el ta xatiá txeu, verá xatióde.
 
 > Pidrine subiá,
-> <br/>el desará,
+> <br/>el dezará,
 > <br/>fésta kabá asin!
 
-Un pesoa ke ta fazê asin txeu é *desarénte* (d+zarént).
+Un pesoa ke ta fazê asin txeu é *dezarénte* (d+zarént).
 
 ("Txeu" li podê significá "demás", e "demás" podê significá "más ke mi tá gostá".)
 
 
 # Pronúnsia
 
-| desará | d+zará
-| desarénte | d+zarént
+| dezará | d+zará
+| dezarénte | d+zarént
 
 
 # Etimologia (pt)
@@ -33,9 +33,9 @@ Alguem enojado pode *desará* ele mesmo, e *descompô* o outro.
 
 # (en)
 
-When a person does this (*desará*), they get very angry.
+When a person does this (*dezará*), they get very angry.
 It appears to come from a word meaning "to mess up, put in disorder", and in this case is being
 used intransitively or reflexively, like "lose your composure".
 
-When they are this (*desarénte*), they tend to get angry often.
+When they are this (*dezarénte*), they tend to get angry often.
 (Like similar words in Kriole, "often" can mean "too much", and "too much" can mean "more than *I'd* like".)

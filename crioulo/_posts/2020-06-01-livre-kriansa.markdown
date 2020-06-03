@@ -14,7 +14,7 @@ ke ten un bokóde de livre ke un bokóde de traduson.
 Ten más ke sen língua na kel saite!
 Es disidí distribuí kes livre na kel saite de un fórma livre: ["CC BY 4.0"](https://creativecommons.org/licenses/by/4.0/) ([pt](https://creativecommons.org/licenses/by/4.0/deed.pt)).
 Asin nos ke ta alê un livre la, mes ke no ka ten kel direte de autor---móde é autor ke ten kel la,
-ma no ten tude direte pa traduzí-l, imprimí-l, alê-l de fórma publike, y otes kosa,
+ma no ten tude direte pa traduzí-l, imprimí-l, alê-l de fórma públike, y otes kóza,
 se no identifiká kel autor original.
 
 Ke tal un dia no pudia akresentá Kriole na kel saite.
@@ -23,7 +23,7 @@ Kel saite ja ta asetá más ke un traduson pa un livre, ké bon pa ise.
 Kel livre ke N traduzí pa Kriole ja ten dos traduson diferénte pa portugês.
 Se pesoas kre skrevê na ortografía diferénte, paresê-me kel la tamben podê ka ten problema,
 es podê kresentá ote traduson de sês ke sês preferénsa.
-Ma se dialéte é diferente, un pesoa tava kre oiá antes ke-l da kel klike
+Ma se dialéte é diferente, un pesoa tava kre oiá antes ke-l dá kel klike
 se ta ben ser un traduson pa Praia, pa Sonsénte, pa Foge...
 
 Por enkuante, N tita postá li, atê ke N ta más konfiante ke ortografía,

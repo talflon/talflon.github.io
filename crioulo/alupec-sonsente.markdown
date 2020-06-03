@@ -25,14 +25,14 @@ ALUPEC é un sistéma ortográfeke pa skrevê Kriole. Paresê-me ke sês alve é
 - pa ser simples, y reduzí tónte létra é usóde: pa kada son, na kada palavra, na alfabéte intere
 - pa reduzí use de asénte skrite
 - pa ten base na etemolojia, y na ortografia de portugês
-- pa ka usa apostrófe na palavra normal
+- pa ka uzá apostrófe na palavra normal
 
 Felijménte ta izistí konsedje pa usá-l pa Kriole de Sonsénte. Infelijménte, paresê-me ke:
 
 - É imposível atinjí tude kes alve ke Kriole de Sonsénte ke mute susese,
   móde juntóde es ta verá kel skritura mute ambige
 - Txeu de kes problema ta ben de use etemolojeke de letra **E**.
-- Problema ke letra **E** é ke ALUPEC ta usá-l pa representá kel "e mude" de portugês, unton ta fekâ
+- Problema ke letra **E** é ke ALUPEC ta usá-l pa reprezentá kel "e mude" de portugês, unton ta fekâ
   tres son distinte pa letra **E**. Y ainda por sima ALUPEC ta kresentá e mude na un bokóde de
   lugar na palavra, donde el ka ten kostume de ser pronunsióde.
 - ALUPEC é nê mute gostóde pa jénte ke ta falá Sonsénte, y é nê mute usóde pa es.
@@ -41,14 +41,14 @@ Felijménte ta izistí konsedje pa usá-l pa Kriole de Sonsénte. Infelijménte,
 
 Pa skrevê *pronúnsia* de forma más klóre, N tita komesá ke ALUPEC, má despôs ta mudal asin:
 
-- `+` ta representá "E mude", ke podê ser:
+- `+` ta reprezentá "E mude", ke podê ser:
   - [vogal sentral](https://pt.wikipedia.org/wiki/Vogal_central),
-  - ô [kuase posterior](https://pt.wikipedia.org/wiki/Vogal_posterior_fechada_n%C3%A3o_arredondada) móda na E átone de Portugal,
-  - ô kuase desapareside móda aspirasãu.
+  - ô [kuaze posterior](https://pt.wikipedia.org/wiki/Vogal_posterior_fechada_n%C3%A3o_arredondada) móda na E átone de Portugal,
+  - ô kuaze dezapareside móda aspirasãu.
 - `+` é nê puste sen nesesidade, por ezemple na fin de palavra: kel `+` na fin de *idade* é igual se é skrite ô nãu, unton N ta skrevê `idád` en vez de `idád+`.
-- `s` é usóde so pa son de `ss`, duplikóde se presise pa ivitá konfuson. **S** ke son de **X** é `x`, ke son de **J** é `j`.
-- `n` ma `m` ta representá sês son karregóde.
-- `ã ẽ ĩ õ ũ` é usóde pa representá vogal nasal. Na ditónge el ta ba na primer letra, móda na portugês. É nê presise se `n` ô `m` ta sigí-l.
+- `s` é usóde so pa son de `ss`, duplikóde se presise pa ivitá konfuzon. **S** ke son de **X** é `x`, ke son de **J** é `j`.
+- `n` ma `m` ta reprezentá sês son karregóde.
+- `ã ẽ ĩ õ ũ` é usóde pa reprezentá vogal nazal. Na ditónge el ta ba na primer letra, móda na portugês. É nê presise se `n` ô `m` ta sigí-l.
 - asénte sempre usóde kónde ta ijdá sklaresê.
 - `d z v b g j` na fin de palavra, ke feká son móda `t ss f p k x`, N ta skrevê `t ss f p k x`
 - `i` ma `u` kónde karregóde; senãu `y` ma `w`.
@@ -77,7 +77,7 @@ Pa skrevê *pronúnsia* de forma más klóre, N tita komesá ke ALUPEC, má desp
 | ja, a | já, á | Kome N ka ta kontxê nenhun bon régra pa kónde "ja" ô "a" é usóde, paresê-me ke N ta ten ke skrevê-s diferénte.
 | un | ũ
 | asin | assĩ
-| besote | bzôt | pa mi, "bz" pudia ser enkontre, ma pa ALUPEC kwaz nãu (E etemolójeke)
+| bezote | bzôt | pa mi, "bz" pudia ser enkontre, ma pa ALUPEC kwaz nãu (E etemolójeke)
 | ma | mâ | "mi ma bo"
 | má, más | má, máx | "má bon ke kel ote"
 | debóxe | d+bóx
@@ -85,7 +85,7 @@ Pa skrevê *pronúnsia* de forma más klóre, N tita komesá ke ALUPEC, má desp
 | kre | krê | Sen asénte móde el ten un sílaba sô? Ma kes ezemples ke a-me enkontrá é só ke asénte.
 | barulhe | barúlh+ | paresê-me ke ten son de /ulh+/, nãu /ul/
 | juélhe | jwélh+
-| dezê | dzê | pa mi, "dz" pudia ser enkontre, ma pa ALUPEC kuase nãu (E etemolójeke)
+| dezê | dzê | pa mi, "dz" pudia ser enkontre, ma pa ALUPEC kuaze nãu (E etemolójeke)
 | dezide | dzit
 | falóde | falót
 | txegá | tx+gá
@@ -125,4 +125,6 @@ Pa skrevê *pronúnsia* de forma más klóre, N tita komesá ke ALUPEC, má desp
 | olhe, molhe | olh+, molh+ | óleo, molho
 | ijedá | ijdá
 | ménte, -ménte, Sonsénte
-| kazá | kazá
+| kazá, kaza | kazá, káza
+| dá | dá
+
