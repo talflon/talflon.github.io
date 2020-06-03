@@ -61,12 +61,19 @@ Pa skrevê *pronúnsia* de forma más klóre, N tita komesá ke ALUPEC, má desp
 | mi? min? | mi? mĩ?
 | ke N | k+m | ô "ke-me"?
 | ja-l, a-l, ja-me, a-me | jál, ál, jám, ám | Gramatikaménte é más pa "ja el", "a N", ma es é dzide tude junte. Más un probléma de usá "N" pa /m/.
-| sê, sês? se, ses? | sê, sêj | en prinsipe ka tava levá asénte móde é pronome. Ma senãu ta feká igual a "se"
-| a | á | Na frase portugesóde. Pa nha entender, ta dependê se ta izistí palavra ke son "â". Se ka ta izistí, ese palavra ta podê feká sem asénte. Se ta izistí, ese palavra ta ten ke ten asénte móde es dos ta fazê un par mineme.
+| sê, sês? se, ses? | sê, sêj | en prinsipe ka tava levá asénte móde é pronome. Ma senãu ta feká igual a "se" (s+)
+| a | á | Na frase portugesóde. Pa nha entender, ta dependê se ta izistí palavra ke son "â". Se ka ta izistí, ese palavra ta podê feká sem asénte. Se ta izistí, ese palavra ta ten ke ten asénte móde es dos ta fazê un par mínime.
 | unton? | ũtõ? ãtõ?
 | tamben? | tambẽ? tãbẽ?
+| treze? | trêss | 13
+| krize? | kriss | *crise*
+| kuaze? | kuaz? kuass? | *quase*
+| faze? | fáss | *fase*
+| públike? públeke? | públik+? públ+k+? | *público*
+| etimolójike? etemelójeke? | | *etimológico*
+| maiz-ô? más-ô? | maizô
 
-# Más-ô-menes serteza
+# Maiz-ô-menes serteza
 
 | ALUPEC | pronúnsia | notas                      | 
 | ------ | --------- | -------------------------- |
