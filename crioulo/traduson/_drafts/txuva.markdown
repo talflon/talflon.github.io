@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Txuva"
+categories: traduson
+---
+
+Stória orijinal ["Rain"](https://storyweaver.org.in/stories/15212-rain)
+([pt](https://storyweaver.org.in/stories/20678-chuva))
+skrite pa Letta Machoga y dezenhóde pa Marleen Visser, y puste na saite [StoryWeaver.org.in](https://storyweaver.org.in/).
+
+Traduzide pa Daniel Getz
+
+<style>
+  .pagesep {
+    text-align: center;
+    font-size: 200%;
+    padding: 5%;
+  }
+</style>
+
+---
+
+N ta gostá de aga.
+
+<div class="pagesep">~</div>
+
+N ta gostá de brinká ke aga.
+
+<div class="pagesep">~</div>
+
+Tita da txuva.
+
+<div class="pagesep">~</div>
+
+Txuva ta da nos aga.
+
+<div class="pagesep">~</div>
+
+N ta gostá de brinká na rua.
+
+<div class="pagesep">~</div>
+
+So ke tita da txuva.
+
+<div class="pagesep">~</div>
+
+N ta gostá de brinká na txuva.
+
+<div class="pagesep">~</div>
+
+Nha kabéle ta moióde de brinká na txuva.
+
+Nha pai tita compô nha kabéle.
+
+---
+
+Translation ©2020 Daniel Getz.
+Original text of "Rain" written by Letta Machoga, © African Storybook Initiative and Molteno Institute 2014, some rights reserved.
+Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license ([pt](https://creativecommons.org/licenses/by/4.0/deed.pt)).
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
