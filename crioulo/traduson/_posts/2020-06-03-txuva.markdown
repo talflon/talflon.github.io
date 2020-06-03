@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Txuva"
+title:  '"Txuva"'
 categories: traduson
 ---
 

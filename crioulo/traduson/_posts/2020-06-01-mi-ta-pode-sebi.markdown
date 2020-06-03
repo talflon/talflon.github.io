@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mi ta Podê Sebí!"
+title:  '"Mi ta Podê Sebí!"'
 categories: traduson
 ---
 

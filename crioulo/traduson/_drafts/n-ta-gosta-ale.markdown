@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "N ta Gostá de Alê"
+title:  '"N ta Gostá de Alê"'
 categories: traduson
 ---
 
