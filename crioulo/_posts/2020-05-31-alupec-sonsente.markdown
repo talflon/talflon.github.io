@@ -19,20 +19,19 @@ The São Vicente dialect is different in a number of ways that make it difficult
 So there are special rules for Barlavento dialects in ALUPEC.
 These rules also make Barlavento dialect spellings follow their etymology more than other dialects' spellings.
 
-The end result, in my opinion, is a bit of a Frankenstein's monster.
-I'm not a linguist, and my knowledge of Creole is imperfect, but there's a lot that can be criticized.
+The end result, in my opinion, seems a bit like a Frankenstein's monster.
+(But I'm not a linguist, and my knowledge of Creole is imperfect.)
 It hasn't been well received by native Barlavento speakers, from what I've heard.
 
-There ends up being a lot of ambiguity in how words are written vs. how they're pronounced.
+There ends up being some ambiguity in how words are written vs. how they're pronounced.
 For example, if you write *debóxe*, *detá*, and *dezê*, the accent marks give you some pronunciation
 clues, but they leave out something important if you've never heard the words spoken: the initial E's have very different sounds,
 to the point of changing the number of syllables when an E doesn't actually represent a sound at all!
-For every word made simpler by using Portuguese rules for the letter S,
-there seems to be two words made more ambiguous by saying "but don't duplicate them and never use C".
+**EDIT: removed former criticism of letter S, see below.**
 So some of this ambiguity is a direct result of the combinations of rules chosen,
 and would be reduced if slightly different ones were used.
 
-But a lot of the ambiguity is hard to avoid,
+But a lot of that ambiguity is hard to avoid,
 without using a ton of accent marks, inventing new letters,
 or using a lot of apostrophes.
 I tend towards liking the apostrophes a little better, but I can see that they can seem more like an eye-dialect than a spelling system.
@@ -46,3 +45,9 @@ The system is definitely usable, and despite my criticisms I'm happy to be using
 I've been trying to get used to the rules and how they're applied by writing
 in the language and translating things into it.
 I'm storing some of my thoughts, understandings, and questions on [my ALUPEC Sonsénte page]({% link crioulo/alupec-sonsente.markdown %}).
+
+---
+
+**EDITED Jun 3:** I realized I had misread the rules for the letter S, so I've removed my criticism of them and tried to softened my critical tone.
+I had thought that intervocalic **S** with the /z/ sound could be written as "s" in Barlavento ALUPEC, but apparently I'm wrong and those
+are changed to **Z**, which at first glance seems to make things cleaner.

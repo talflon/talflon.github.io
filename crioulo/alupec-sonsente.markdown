@@ -31,7 +31,7 @@ Felijménte ta izistí konsedje pa usá-l pa Kriole de Sonsénte. Infelijménte,
 
 - É imposível atinjí tude kes alve ke Kriole de Sonsénte ke mute susese,
   móde juntóde es ta verá kel skritura mute ambige
-- Txeu de kes problema ta ben de use etemolojeke de letra **S** ma letra **E**.
+- Txeu de kes problema ta ben de use etemolojeke de letra **E**.
 - Problema ke letra **E** é ke ALUPEC ta usá-l pa representá kel "e mude" de portugês, unton ta fekâ
   tres son distinte pa letra **E**. Y ainda por sima ALUPEC ta kresentá e mude na un bokóde de
   lugar na palavra, donde el ka ten kostume de ser pronunsióde.
@@ -46,7 +46,7 @@ Pa skrevê *pronúnsia* de forma más klóre, N tita komesá ke ALUPEC, má desp
   - ô [kuase posterior](https://pt.wikipedia.org/wiki/Vogal_posterior_fechada_n%C3%A3o_arredondada) móda na E átone de Portugal,
   - ô kuase desapareside móda aspirasãu.
 - `+` é nê puste sen nesesidade, por ezemple na fin de palavra: kel `+` na fin de *idade* é igual se é skrite ô nãu, unton N ta skrevê `idád` en vez de `idád+`.
-- `s` é usóde so pa son de `ss`, duplikóde se presise pa ivitá konfuson. **S** ke son de **X** é `x`, ke son de **Z** é `z`, ke son de **J** é `j`.
+- `s` é usóde so pa son de `ss`, duplikóde se presise pa ivitá konfuson. **S** ke son de **X** é `x`, ke son de **J** é `j`.
 - `n` ma `m` ta representá sês son karregóde.
 - `ã ẽ ĩ õ ũ` é usóde pa representá vogal nasal. Na ditónge el ta ba na primer letra, móda na portugês. É nê presise se `n` ô `m` ta sigí-l.
 - asénte sempre usóde kónde ta ijdá sklaresê.
@@ -62,7 +62,6 @@ Pa skrevê *pronúnsia* de forma más klóre, N tita komesá ke ALUPEC, má desp
 | ke N | k+m | ô "ke-me"?
 | ja-l, a-l, ja-me, a-me | jál, ál, jám, ám | Gramatikaménte é más pa "ja el", "a N", ma es é dzide tude junte. Más un probléma de usá "N" pa /m/.
 | sê, sês? se, ses? | sê, sêj | en prinsipe ka tava levá asénte móde é pronome. Ma senãu ta feká igual a "se"
-| kazá? kasá? | kazá | letra S é más etemolójeke, ma kasá de *casar* tava ser ambige ma kasá de *caçar*. Santióge ta usá "kaza".
 | a | á | Na frase portugesóde. Pa nha entender, ta dependê se ta izistí palavra ke son "â". Se ka ta izistí, ese palavra ta podê feká sem asénte. Se ta izistí, ese palavra ta ten ke ten asénte móde es dos ta fazê un par mineme.
 | unton? | ũtõ? ãtõ?
 | tamben? | tambẽ? tãbẽ?
@@ -126,3 +125,4 @@ Pa skrevê *pronúnsia* de forma más klóre, N tita komesá ke ALUPEC, má desp
 | olhe, molhe | olh+, molh+ | óleo, molho
 | ijedá | ijdá
 | ménte, -ménte, Sonsénte
+| kazá | kazá

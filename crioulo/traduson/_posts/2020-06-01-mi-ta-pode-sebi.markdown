@@ -4,9 +4,9 @@ title:  "Mi ta Podê Sebí!"
 categories: traduson
 ---
 
-Stória original ["I Can Climb!"](https://storyweaver.org.in/stories/822-i-can-climb)
+Stória orijinal ["I Can Climb!"](https://storyweaver.org.in/stories/822-i-can-climb)
 ([pt](https://storyweaver.org.in/stories/20394-eu-consigo-subir))
-skrite pa Mini Shrinivasan y desenhóde pa Deval Maniar, y puste na saite [StoryWeaver.org.in](https://storyweaver.org.in/).
+skrite pa Mini Shrinivasan y dezenhóde pa Deval Maniar, y puste na saite [StoryWeaver.org.in](https://storyweaver.org.in/).
 
 Traduzide pa Daniel Getz
 
