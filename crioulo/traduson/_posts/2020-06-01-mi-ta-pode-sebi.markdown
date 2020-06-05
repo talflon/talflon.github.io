@@ -99,7 +99,7 @@ Ma N ka ta podê txi de la.
   <img class="page_image" src="/assets/images/1407-boy-climbing-on-a-chair.jpg"/>
   <div class="page_text" markdown="1">
 
-N ta podê sebí na kadéra.
+N ta podê sebí na kadera.
 
   </div>
 </div>
@@ -119,7 +119,7 @@ Ma N ka ta podê txi de la.
   <img class="page_image" src="/assets/images/1409-boy-on-a-dining-table.jpg"/>
   <div class="page_text" markdown="1">
 
-N ta sebí na kadéra, y despôs na mésa!
+N ta sebí na kadera, y despôs na méza!
 
   </div>
 </div>
@@ -161,7 +161,7 @@ N ta ke mede. Ma N ka ta txorá.
   <img class="page_image" src="/assets/images/1413-boy-climbing-down-a-table.jpg"/>
   <div class="page_text" markdown="1">
 
-Lente, lente, N ta txi de mésa, y N ta txi de kadera.
+Lénte, lénte, N ta txi de méza, y N ta txi de kadera.
 
   </div>
 </div>
