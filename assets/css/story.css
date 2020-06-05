@@ -1,0 +1,36 @@
+.page {
+  display: grid;
+  }
+.page_num {
+  text-align: center;
+  font-size: 300%;
+  padding: 2em;
+  }
+.elix_on .page_num {
+  padding: 0.5em;
+  font-size: 200%;
+  cursor: pointer;
+  }
+.page_image {
+  grid-column: 1;
+  grid-row: 1;
+  }
+.page_text {
+  grid-column: 1;
+  grid-row: 2;
+  font-size: 200%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  padding: 5%;
+  }
+.title_page .page_text {
+  font-size: 100%;
+  }
+.image_left .page_text {
+  grid-column: 2;
+  grid-row: 1;
+  }
+.copyrights {
+  font-size: smaller;
+  }
