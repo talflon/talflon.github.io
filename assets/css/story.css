@@ -1,6 +1,9 @@
 .page {
   display: grid;
   }
+.image_left {
+  grid-template-columns: 50% 50%;
+  }
 .page_num {
   text-align: center;
   font-size: 300%;
@@ -14,6 +17,7 @@
 .page_image {
   grid-column: 1;
   grid-row: 1;
+  width: 100%;
   }
 .page_text {
   grid-column: 1;

@@ -4,58 +4,123 @@ title:  '"Txuva"'
 categories: traduson
 ---
 
-Stória orijinal ["Rain"](https://storyweaver.org.in/stories/15212-rain)
-([pt](https://storyweaver.org.in/stories/20678-chuva))
-skrite pa Letta Machoga y dezenhóde pa Marleen Visser, y puste na saite [StoryWeaver.org.in](https://storyweaver.org.in/).
+<link href="/assets/css/story.css" rel="stylesheet">
+<script type="module" src="/assets/js/elix_carousel.js"
+  onload="document.documentElement.className = 'elix_on';">
+</script>
+
+<elix-carousel proxy-list-overlap="false" style="width: 100%">
+
+<div slot="proxy" class="page_num">1</div>
+<div class="page title_page">
+  <img class="page_image" src="/assets/images/7335-a-girl-dancing-in-the-rain.jpg"/>
+  <div class="page_text" markdown="1">
+
+# Txuva
 
 Traduzide pa Daniel Getz
 
-<style>
-  .pagesep {
-    text-align: center;
-    font-size: 200%;
-    padding: 5%;
-  }
-</style>
+Stória orijinal ["Rain"](https://storyweaver.org.in/stories/15212-rain)
+([pt](https://storyweaver.org.in/stories/20678-chuva))
+skrite pa Letta Machoga y dezenhóde pa Marleen Visser,
+y puste na saite [StoryWeaver.org.in](https://storyweaver.org.in/).
 
----
+  </div>
+</div>
+
+<div slot="proxy" class="page_num">2</div>
+<div class="page image_left">
+  <img class="page_image" src="/assets/images/7336-a-girl-pouring-water-from-smaller-to-bigger-bucket.jpg"/>
+  <div class="page_text" markdown="1">
 
 N ta gostá de aga.
 
-<div class="pagesep">~</div>
+  </div>
+</div>
+
+<div slot="proxy" class="page_num">3</div>
+<div class="page image_left">
+  <img class="page_image" src="/assets/images/7337-girl-pouring-water-from-smaller-to-bigger-glass.jpg"/>
+  <div class="page_text" markdown="1">
 
 N ta gostá de brinká ke aga.
 
-<div class="pagesep">~</div>
+  </div>
+</div>
+
+<div slot="proxy" class="page_num">4</div>
+<div class="page image_left">
+  <img class="page_image" src="/assets/images/7338-rain-pouring-down-on-a-street-lined-with-houses.jpg"/>
+  <div class="page_text" markdown="1">
 
 Tita dá txuva.
 
-<div class="pagesep">~</div>
+  </div>
+</div>
+
+<div slot="proxy" class="page_num">5</div>
+<div class="page image_left">
+  <img class="page_image" src="/assets/images/7339-rain-pouring-down-on-a-residential-street.jpg"/>
+  <div class="page_text" markdown="1">
 
 Txuva ta dá nos aga.
 
-<div class="pagesep">~</div>
+  </div>
+</div>
+
+<div slot="proxy" class="page_num">6</div>
+<div class="page image_left">
+  <img class="page_image" src="/assets/images/7340-two-children-playing-together.jpg"/>
+  <div class="page_text" markdown="1">
 
 N ta gostá de brinká na rua.
 
-<div class="pagesep">~</div>
+  </div>
+</div>
+
+<div slot="proxy" class="page_num">7</div>
+<div class="page image_left">
+  <img class="page_image" src="/assets/images/7357-a-girl-looking-sadly-out-a-window.jpg"/>
+  <div class="page_text" markdown="1">
 
 So ke tita dá txuva.
 
-<div class="pagesep">~</div>
+  </div>
+</div>
+
+<div slot="proxy" class="page_num">8</div>
+<div class="page image_left">
+  <img class="page_image" src="/assets/images/7358-girl-enjoying-in-the-rain.jpg"/>
+  <div class="page_text" markdown="1">
 
 N ta gostá de brinká na txuva.
 
-<div class="pagesep">~</div>
+  </div>
+</div>
+
+<div slot="proxy" class="page_num">9</div>
+<div class="page image_left">
+  <img class="page_image" src="/assets/images/7359-man-combing-a-girl-s-hair.jpg"/>
+  <div class="page_text" markdown="1">
 
 Nha kabéle ta moióde de brinká na txuva.
 
 Nha pai tita compô nha kabéle.
 
+  </div>
+</div>
+
+</elix-carousel>
+
 ---
 
+<div class="copyrights" markdown="1">
 Translation ©2020 Daniel Getz.
-Original text of "Rain" written by Letta Machoga, © African Storybook Initiative and Molteno Institute 2014, some rights reserved.
+
+Original text of "Rain" written by Letta Machoga, © African Storybook Initiative, 2014, some rights reserved.
 Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license ([pt](https://creativecommons.org/licenses/by/4.0/deed.pt)).
 
+All drawings by Marleen Visser, © African Storybook Initiative, 2014, some rights reserved. Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license ([pt](https://creativecommons.org/licenses/by/4.0/deed.pt)).
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+</div>
