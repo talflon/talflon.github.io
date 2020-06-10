@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Palavras"
+categories: update
+---
+
+Kriole is a language full of interesting words.
+I feel there are a lot of expressive words:
+words with interesting metaphors,
+words with just the right number of syllables,
+words that leave no doubt what the speaker really thinks.
+Most Kriole words are descended from Portuguese words, one way or another,
+though some come from other languages.
+I plan to post what I know or find out about some Kriole words I find interesting,
+starting with [dezará]({% link crioulo/palavra/_posts/2020-06-10-dezara-dezarente.markdown %}).
