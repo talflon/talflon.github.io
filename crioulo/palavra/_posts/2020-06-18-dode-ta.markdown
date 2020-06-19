@@ -1,0 +1,42 @@
+---
+layout: post
+title: Dóde ta ...
+---
+
+Kónde un pesoa ta *dóde* ta skrevê, el tita skrevê txeu, el ta okupóde ke sê skritura.
+Algen *dóde* ta kemê tita kemê txeu, ta konsentróde na sê kemida.
+
+Ess frase ten signifikóde y gramátika kuase igual a "tude ta ＿" ô "so ta ＿".
+
+(Spiá kel asénte drete: é *dóde*, é nê *dode*.)
+
+# Pronúnsia
+
+| dóde | [dót]
+
+# Etimologia (pt)
+
+*Dar* em português tem um significado muito similar:
+
+> - Fazer algo com dedicação ou muita atenção ou concentração (ex.: acho que nos demos completamente a este projecto; nunca se deu aos estudos)[^1]
+
+A diferença está mais na gramática: *ta dóde ta (verbo)*, como se fosse *\*estar dado a (verbo inf.)*, em vez de *se dar a (substantivo)*.
+
+[^1]: "dar", in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2020, [https://dicionario.priberam.org/dar](https://dicionario.priberam.org/dar) [consultado em 11-06-2020].
+
+
+# (en)
+
+This is a way to say that someone is busy doing something, doing a lot of it, putting their all into it.
+
+It has a very similar meaning and grammar to the more straightforward phrases "tude ta ＿" ("always" doing ＿) and "so ta ＿" ("only" doing ＿),
+which are practically all synonyms of each other.
+
+It comes from the Portuguese word *dar*, which means "give", but in both languages really has a ton of different uses and meanings.
+(In that sense it's like the Portuguese equivalent of English "do", just based on "give" instead of "act".)
+So it looks a little like "given to ＿ing" in English,
+but in Kriole instead it means that someone is currently putting all their effort and focus into what it is that they're doing.
+
+Don't confuse *dóde* with *dode* (meaning crazy)!
+
+---
